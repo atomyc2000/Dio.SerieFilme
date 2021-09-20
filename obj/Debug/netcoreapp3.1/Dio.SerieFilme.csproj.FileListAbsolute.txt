@@ -1,0 +1,13 @@
+D:\Documents\programação\c#\Dio.SerieFilme\bin\Debug\netcoreapp3.1\Dio.SerieFilme.exe
+D:\Documents\programação\c#\Dio.SerieFilme\bin\Debug\netcoreapp3.1\Dio.SerieFilme.deps.json
+D:\Documents\programação\c#\Dio.SerieFilme\bin\Debug\netcoreapp3.1\Dio.SerieFilme.runtimeconfig.json
+D:\Documents\programação\c#\Dio.SerieFilme\bin\Debug\netcoreapp3.1\Dio.SerieFilme.runtimeconfig.dev.json
+D:\Documents\programação\c#\Dio.SerieFilme\bin\Debug\netcoreapp3.1\Dio.SerieFilme.dll
+D:\Documents\programação\c#\Dio.SerieFilme\bin\Debug\netcoreapp3.1\Dio.SerieFilme.pdb
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.csprojAssemblyReference.cache
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.AssemblyInfoInputs.cache
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.AssemblyInfo.cs
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.csproj.CoreCompileInputs.cache
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.dll
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.pdb
+D:\Documents\programação\c#\Dio.SerieFilme\obj\Debug\netcoreapp3.1\Dio.SerieFilme.genruntimeconfig.cache

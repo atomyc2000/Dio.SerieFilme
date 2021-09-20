@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dio.SerieFilme/1.0.0": {
+        "runtime": {
+          "Dio.SerieFilme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio.SerieFilme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
